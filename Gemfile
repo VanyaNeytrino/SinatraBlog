@@ -1,6 +1,8 @@
-sourse 'https://rubygems.org'
+source 'https://rubygems.org'
 	ruby '2.3.0'
 	gem 'sinatra'
 	gem 'activerecord', '~> 4.2', '>= 4.2.6'
+	gem 'sinatra-activerecord'
+	gem 'sinatra-contrib'
 	gem 'sinatra-bootstrap'
-	
+	gem 'pg'

@@ -1,0 +1,6 @@
+development:
+  adapter: postgresql
+  database: blog_sinatra
+  username: netrino
+  password: 1488
+  host: localhost
